@@ -1,4 +1,3 @@
-function hexCheck(number) { return number.split('').every(c => '0123456789ABCDEFabcdef'.indexOf(c) !== -1); } 
     /**
      * ONTES-CHEAT
      * © Tomáš Vojtek 2022
